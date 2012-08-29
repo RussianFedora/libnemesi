@@ -3,7 +3,7 @@
 Summary: RTSP/RTP client library
 Name: libnemesi
 Version: 0.7.0
-Release: 0.1.%{?git}git%{?dist}.R
+Release: 0.1.%{?git}git%{?dist}
 License: LGPLv2+
 Group: Development/Libraries
 %if %{?git:1}0
